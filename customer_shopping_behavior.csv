@@ -1,0 +1,401 @@
+user_id,age,gender,product_category,purchase_amount,product_preference,purchase_date
+1,25,Male,Electronics,599.99,High,2025-01-15
+2,34,Female,Clothing,89.50,Medium,2025-02-03
+3,19,Male,Sports,120.00,Low,2025-03-10
+4,45,Female,Beauty,45.75,High,2025-01-22
+5,28,Male,Home & Kitchen,299.99,Medium,2025-04-05
+6,52,Female,Electronics,799.00,High,2025-02-18
+7,23,Male,Clothing,65.00,Low,2025-03-25
+8,37,Female,Sports,200.50,Medium,2025-01-30
+9,41,Male,Beauty,30.25,Low,2025-04-12
+10,29,Female,Home & Kitchen,150.00,High,2025-02-07
+11,33,Male,Electronics,450.00,Medium,2025-03-03
+12,26,Female,Clothing,110.75,High,2025-01-19
+13,48,Male,Sports,89.99,Low,2025-04-20
+14,31,Female,Beauty,60.00,Medium,2025-02-14
+15,22,Male,Home & Kitchen,99.50,Low,2025-03-08
+16,39,Female,Electronics,650.25,High,2025-01-27
+17,27,Male,Clothing,75.00,Medium,2025-04-01
+18,44,Female,Sports,180.00,High,2025-02-22
+19,35,Male,Beauty,25.50,Low,2025-03-15
+20,30,Female,Home & Kitchen,220.00,Medium,2025-01-10
+21,24,Male,Electronics,349.99,High,2025-02-05
+22,40,Female,Clothing,95.25,Medium,2025-03-12
+23,29,Male,Sports,150.75,Low,2025-01-28
+24,47,Female,Beauty,55.00,High,2025-04-03
+25,32,Male,Home & Kitchen,199.99,Medium,2025-02-17
+26,36,Female,Electronics,499.00,High,2025-03-20
+27,21,Male,Clothing,70.50,Low,2025-01-15
+28,43,Female,Sports,210.00,Medium,2025-04-10
+29,38,Male,Beauty,40.00,Low,2025-02-25
+30,27,Female,Home & Kitchen,175.50,High,2025-03-05
+31,50,Male,Electronics,699.99,Medium,2025-01-30
+32,28,Female,Clothing,120.00,High,2025-04-15
+33,34,Male,Sports,99.99,Low,2025-02-08
+34,41,Female,Beauty,65.25,Medium,2025-03-22
+35,26,Male,Home & Kitchen,130.00,Low,2025-01-17
+36,45,Female,Electronics,800.00,High,2025-04-02
+37,31,Male,Clothing,85.75,Medium,2025-02-13
+38,39,Female,Sports,190.50,High,2025-03-27
+39,23,Male,Beauty,35.00,Low,2025-01-24
+40,33,Female,Home & Kitchen,250.00,Medium,2025-04-07
+41,28,Male,Electronics,399.50,High,2025-02-20
+42,42,Female,Clothing,100.25,Medium,2025-03-14
+43,30,Male,Sports,140.00,Low,2025-01-31
+44,49,Female,Beauty,50.75,High,2025-04-18
+45,35,Male,Home & Kitchen,180.99,Medium,2025-02-10
+46,27,Female,Electronics,550.00,High,2025-03-06
+47,22,Male,Clothing,60.00,Low,2025-01-21
+48,46,Female,Sports,220.25,Medium,2025-04-13
+49,40,Male,Beauty,45.50,Low,2025-02-28
+50,29,Female,Home & Kitchen,200.00,High,2025-03-18
+51,37,Male,Electronics,450.75,Medium,2025-01-25
+52,25,Female,Clothing,115.50,High,2025-04-09
+53,44,Male,Sports,110.99,Low,2025-02-15
+54,32,Female,Beauty,70.00,Medium,2025-03-29
+55,26,Male,Home & Kitchen,149.99,Low,2025-01-12
+56,48,Female,Electronics,750.00,High,2025-04-04
+57,33,Male,Clothing,90.00,Medium,2025-02-19
+58,38,Female,Sports,195.75,High,2025-03-23
+59,24,Male,Beauty,30.00,Low,2025-01-29
+60,41,Female,Home & Kitchen,230.50,Medium,2025-04-16
+61,29,Male,Electronics,600.00,High,2025-02-06
+62,45,Female,Clothing,105.25,Medium,2025-03-11
+63,31,Male,Sports,130.50,Low,2025-01-26
+64,50,Female,Beauty,60.75,High,2025-04-21
+65,34,Male,Home & Kitchen,170.99,Medium,2025-02-12
+66,28,Female,Electronics,500.25,High,2025-03-17
+67,23,Male,Clothing,80.50,Low,2025-01-20
+68,47,Female,Sports,205.00,Medium,2025-04-08
+69,39,Male,Beauty,50.00,Low,2025-02-23
+70,30,Female,Home & Kitchen,190.00,High,2025-03-30
+71,36,Male,Electronics,650.99,Medium,2025-01-16
+72,26,Female,Clothing,125.75,High,2025-04-14
+73,42,Male,Sports,100.99,Low,2025-02-09
+74,33,Female,Beauty,75.25,Medium,2025-03-24
+75,27,Male,Home & Kitchen,160.50,Low,2025-01-18
+76,49,Female,Electronics,700.00,High,2025-04-06
+77,32,Male,Clothing,95.00,Medium,2025-02-21
+78,40,Female,Sports,185.50,High,2025-03-28
+79,25,Male,Beauty,40.75,Low,2025-01-23
+80,35,Female,Home & Kitchen,210.25,Medium,2025-04-17
+81,31,Male,Electronics,400.00,High,2025-02-04
+82,44,Female,Clothing,110.50,Medium,2025-03-13
+83,28,Male,Sports,145.75,Low,2025-01-30
+84,46,Female,Beauty,55.00,High,2025-04-19
+85,37,Male,Home & Kitchen,175.99,Medium,2025-02-14
+86,29,Female,Electronics,550.50,High,2025-03-21
+87,24,Male,Clothing,70.25,Low,2025-01-17
+88,48,Female,Sports,215.00,Medium,2025-04-11
+89,41,Male,Beauty,45.50,Low,2025-02-26
+90,30,Female,Home & Kitchen,195.75,High,2025-03-07
+91,34,Male,Electronics,450.25,Medium,2025-01-31
+92,27,Female,Clothing,120.00,High,2025-04-15
+93,39,Male,Sports,110.50,Low,2025-02-10
+94,32,Female,Beauty,65.75,Medium,2025-03-25
+95,26,Male,Home & Kitchen,140.99,Low,2025-01-19
+96,50,Female,Electronics,800.75,High,2025-04-03
+97,33,Male,Clothing,85.50,Medium,2025-02-18
+98,45,Female,Sports,200.25,High,2025-03-29
+99,28,Male,Beauty,35.25,Low,2025-01-24
+100,36,Female,Home & Kitchen,220.50,Medium,2025-04-09
+101,25,Male,Electronics,599.99,High,2025-02-07
+102,42,Female,Clothing,90.75,Medium,2025-03-15
+103,30,Male,Sports,125.00,Low,2025-01-28
+104,47,Female,Beauty,50.50,High,2025-04-12
+105,34,Male,Home & Kitchen,185.99,Medium,2025-02-20
+106,29,Female,Electronics,650.00,High,2025-03-22
+107,23,Male,Clothing,75.25,Low,2025-01-16
+108,46,Female,Sports,190.75,Medium,2025-04-05
+109,38,Male,Beauty,40.00,Low,2025-02-25
+110,31,Female,Home & Kitchen,200.25,High,2025-03-10
+111,36,Male,Electronics,500.50,Medium,2025-01-30
+112,27,Female,Clothing,115.00,High,2025-04-14
+113,44,Male,Sports,105.99,Low,2025-02-11
+114,33,Female,Beauty,70.25,Medium,2025-03-27
+115,28,Male,Home & Kitchen,150.75,Low,2025-01-21
+116,48,Female,Electronics,750.25,High,2025-04-07
+117,32,Male,Clothing,95.50,Medium,2025-02-19
+118,40,Female,Sports,195.00,High,2025-03-30
+119,26,Male,Beauty,45.75,Low,2025-01-25
+120,35,Female,Home & Kitchen,210.00,Medium,2025-04-10
+121,29,Male,Electronics,400.75,High,2025-02-08
+122,43,Female,Clothing,100.25,Medium,2025-03-16
+123,31,Male,Sports,135.50,Low,2025-01-29
+124,49,Female,Beauty,55.25,High,2025-04-13
+125,37,Male,Home & Kitchen,180.50,Medium,2025-02-21
+126,28,Female,Electronics,550.99,High,2025-03-23
+127,24,Male,Clothing,80.00,Low,2025-01-17
+128,47,Female,Sports,205.25,Medium,2025-04-06
+129,39,Male,Beauty,50.50,Low,2025-02-26
+130,30,Female,Home & Kitchen,195.00,High,2025-03-11
+131,34,Male,Electronics,450.50,Medium,2025-01-31
+132,26,Female,Clothing,120.75,High,2025-04-15
+133,41,Male,Sports,110.25,Low,2025-02-12
+134,32,Female,Beauty,65.50,Medium,2025-03-28
+135,27,Male,Home & Kitchen,145.99,Low,2025-01-22
+136,50,Female,Electronics,800.50,High,2025-04-08
+137,33,Male,Clothing,90.25,Medium,2025-02-20
+138,45,Female,Sports,200.75,High,2025-03-31
+139,29,Male,Beauty,40.25,Low,2025-01-26
+140,36,Female,Home & Kitchen,215.25,Medium,2025-04-11
+141,25,Male,Electronics,600.25,High,2025-02-09
+142,42,Female,Clothing,95.50,Medium,2025-03-17
+143,30,Male,Sports,130.75,Low,2025-01-30
+144,48,Female,Beauty,60.00,High,2025-04-14
+145,35,Male,Home & Kitchen,190.99,Medium,2025-02-22
+146,28,Female,Electronics,650.75,High,2025-03-24
+147,23,Male,Clothing,85.25,Low,2025-01-18
+148,46,Female,Sports,210.50,Medium,2025-04-07
+149,38,Male,Beauty,45.00,Low,2025-02-27
+150,31,Female,Home & Kitchen,200.50,High,2025-03-12
+151,36,Male,Electronics,500.25,Medium,2025-01-31
+152,27,Female,Clothing,115.25,High,2025-04-16
+153,44,Male,Sports,105.50,Low,2025-02-13
+154,33,Female,Beauty,70.50,Medium,2025-03-29
+155,28,Male,Home & Kitchen,155.75,Low,2025-01-23
+156,49,Female,Electronics,750.50,High,2025-04-09
+157,32,Male,Clothing,95.75,Medium,2025-02-21
+158,40,Female,Sports,195.25,High,2025-03-30
+159,26,Male,Beauty,50.25,Low,2025-01-27
+160,35,Female,Home & Kitchen,210.75,Medium,2025-04-12
+161,29,Male,Electronics,400.50,High,2025-02-10
+162,43,Female,Clothing,100.50,Medium,2025-03-18
+163,31,Male,Sports,135.25,Low,2025-01-31
+164,50,Female,Beauty,55.50,High,2025-04-15
+165,37,Male,Home & Kitchen,180.25,Medium,2025-02-23
+166,28,Female,Electronics,550.50,High,2025-03-25
+167,24,Male,Clothing,80.75,Low,2025-01-19
+168,47,Female,Sports,205.50,Medium,2025-04-08
+169,39,Male,Beauty,50.75,Low,2025-02-28
+170,30,Female,Home & Kitchen,195.25,High,2025-03-13
+171,34,Male,Electronics,450.75,Medium,2025-01-31
+172,26,Female,Clothing,120.50,High,2025-04-17
+173,41,Male,Sports,110.75,Low,2025-02-14
+174,32,Female,Beauty,65.25,Medium,2025-03-30
+175,27,Male,Home & Kitchen,145.50,Low,2025-01-24
+176,50,Female,Electronics,800.25,High,2025-04-10
+177,33,Male,Clothing,90.50,Medium,2025-02-22
+178,45,Female,Sports,200.50,High,2025-03-31
+179,29,Male,Beauty,40.50,Low,2025-01-28
+180,36,Female,Home & Kitchen,215.50,Medium,2025-04-13
+181,25,Male,Electronics,600.50,High,2025-02-11
+182,42,Female,Clothing,95.25,Medium,2025-03-19
+183,30,Male,Sports,130.50,Low,2025-01-31
+184,48,Female,Beauty,60.25,High,2025-04-16
+185,35,Male,Home & Kitchen,190.50,Medium,2025-02-24
+186,28,Female,Electronics,650.50,High,2025-03-26
+187,23,Male,Clothing,85.50,Low,2025-01-20
+188,46,Female,Sports,210.25,Medium,2025-04-09
+189,38,Male,Beauty,45.25,Low,2025-02-28
+190,31,Female,Home & Kitchen,200.75,High,2025-03-14
+191,36,Male,Electronics,500.75,Medium,2025-01-31
+192,27,Female,Clothing,115.50,High,2025-04-18
+193,44,Male,Sports,105.25,Low,2025-02-15
+194,33,Female,Beauty,70.75,Medium,2025-03-31
+195,28,Male,Home & Kitchen,155.50,Low,2025-01-25
+196,49,Female,Electronics,750.75,High,2025-04-11
+197,32,Male,Clothing,95.50,Medium,2025-02-23
+198,40,Female,Sports,195.50,High,2025-03-30
+199,26,Male,Beauty,50.50,Low,2025-01-29
+200,35,Female,Home & Kitchen,210.50,Medium,2025-04-14
+201,29,Male,Electronics,400.25,High,2025-02-12
+202,43,Female,Clothing,100.75,Medium,2025-03-20
+203,31,Male,Sports,135.75,Low,2025-01-31
+204,50,Female,Beauty,55.25,High,2025-04-17
+205,37,Male,Home & Kitchen,180.75,Medium,2025-02-25
+206,28,Female,Electronics,550.25,High,2025-03-27
+207,24,Male,Clothing,80.50,Low,2025-01-21
+208,47,Female,Sports,205.75,Medium,2025-04-10
+209,39,Male,Beauty,50.25,Low,2025-02-28
+210,30,Female,Home & Kitchen,195.50,High,2025-03-15
+211,34,Male,Electronics,450.50,Medium,2025-01-31
+212,26,Female,Clothing,120.25,High,2025-04-19
+213,41,Male,Sports,110.50,Low,2025-02-16
+214,32,Female,Beauty,65.75,Medium,2025-03-31
+215,27,Male,Home & Kitchen,145.25,Low,2025-01-26
+216,50,Female,Electronics,800.50,High,2025-04-12
+217,33,Male,Clothing,90.75,Medium,2025-02-24
+218,45,Female,Sports,200.25,High,2025-03-30
+219,29,Male,Beauty,40.75,Low,2025-01-30
+220,36,Female,Home & Kitchen,215.75,Medium,2025-04-15
+221,25,Male,Electronics,600.75,High,2025-02-13
+222,42,Female,Clothing,95.50,Medium,2025-03-21
+223,30,Male,Sports,130.25,Low,2025-01-31
+224,48,Female,Beauty,60.50,High,2025-04-18
+225,35,Male,Home & Kitchen,190.25,Medium,2025-02-26
+226,28,Female,Electronics,650.25,High,2025-03-28
+227,23,Male,Clothing,85.75,Low,2025-01-22
+228,46,Female,Sports,210.50,Medium,2025-04-11
+229,38,Male,Beauty,45.50,Low,2025-02-28
+230,31,Female,Home & Kitchen,200.50,High,2025-03-16
+231,36,Male,Electronics,500.50,Medium,2025-01-31
+232,27,Female,Clothing,115.75,High,2025-04-20
+233,44,Male,Sports,105.50,Low,2025-02-17
+234,33,Female,Beauty,70.50,Medium,2025-03-31
+235,28,Male,Home & Kitchen,155.25,Low,2025-01-27
+236,49,Female,Electronics,750.50,High,2025-04-13
+237,32,Male,Clothing,95.25,Medium,2025-02-25
+238,40,Female,Sports,195.75,High,2025-03-30
+239,26,Male,Beauty,50.75,Low,2025-01-31
+240,35,Female,Home & Kitchen,210.25,Medium,2025-04-16
+241,29,Male,Electronics,400.50,High,2025-02-14
+242,43,Female,Clothing,100.50,Medium,2025-03-22
+243,31,Male,Sports,135.50,Low,2025-01-31
+244,50,Female,Beauty,55.50,High,2025-04-19
+245,37,Male,Home & Kitchen,180.50,Medium,2025-02-27
+246,28,Female,Electronics,550.50,High,2025-03-29
+247,24,Male,Clothing,80.25,Low,2025-01-23
+248,47,Female,Sports,205.50,Medium,2025-04-12
+249,39,Male,Beauty,50.50,Low,2025-02-28
+250,30,Female,Home & Kitchen,195.75,High,2025-03-17
+251,34,Male,Electronics,450.25,Medium,2025-01-31
+252,26,Female,Clothing,120.50,High,2025-04-21
+253,41,Male,Sports,110.25,Low,2025-02-18
+254,32,Female,Beauty,65.25,Medium,2025-03-31
+255,27,Male,Home & Kitchen,145.50,Low,2025-01-28
+256,50,Female,Electronics,800.75,High,2025-04-14
+257,33,Male,Clothing,90.50,Medium,2025-02-26
+258,45,Female,Sports,200.50,High,2025-03-30
+259,29,Male,Beauty,40.50,Low,2025-01-31
+260,36,Female,Home & Kitchen,215.50,Medium,2025-04-17
+261,25,Male,Electronics,600.50,High,2025-02-15
+262,42,Female,Clothing,95.75,Medium,2025-03-23
+263,30,Male,Sports,130.50,Low,2025-01-31
+264,48,Female,Beauty,60.75,High,2025-04-20
+265,35,Male,Home & Kitchen,190.50,Medium,2025-02-28
+266,28,Female,Electronics,650.50,High,2025-03-30
+267,23,Male,Clothing,85.50,Low,2025-01-24
+268,46,Female,Sports,210.25,Medium,2025-04-13
+269,38,Male,Beauty,45.25,Low,2025-02-28
+270,31,Female,Home & Kitchen,200.25,High,2025-03-18
+271,36,Male,Electronics,500.25,Medium,2025-01-31
+272,27,Female,Clothing,115.50,High,2025-04-22
+273,44,Male,Sports,105.75,Low,2025-02-19
+274,33,Female,Beauty,70.25,Medium,2025-03-31
+275,28,Male,Home & Kitchen,155.50,Low,2025-01-29
+276,49,Female,Electronics,750.25,High,2025-04-15
+277,32,Male,Clothing,95.50,Medium,2025-02-27
+278,40,Female,Sports,195.50,High,2025-03-30
+279,26,Male,Beauty,50.50,Low,2025-01-31
+280,35,Female,Home & Kitchen,210.50,Medium,2025-04-18
+281,29,Male,Electronics,400.75,High,2025-02-16
+282,43,Female,Clothing,100.25,Medium,2025-03-24
+283,31,Male,Sports,135.25,Low,2025-01-31
+284,50,Female,Beauty,55.75,High,2025-04-21
+285,37,Male,Home & Kitchen,180.25,Medium,2025-02-28
+286,28,Female,Electronics,550.75,High,2025-03-31
+287,24,Male,Clothing,80.50,Low,2025-01-25
+288,47,Female,Sports,205.25,Medium,2025-04-14
+289,39,Male,Beauty,50.25,Low,2025-02-28
+290,30,Female,Home & Kitchen,195.50,High,2025-03-19
+291,34,Male,Electronics,450.50,Medium,2025-01-31
+292,26,Female,Clothing,120.75,High,2025-04-23
+293,41,Male,Sports,110.50,Low,2025-02-20
+294,32,Female,Beauty,65.50,Medium,2025-03-31
+295,27,Male,Home & Kitchen,145.25,Low,2025-01-30
+296,50,Female,Electronics,800.50,High,2025-04-16
+297,33,Male,Clothing,90.25,Medium,2025-02-28
+298,45,Female,Sports,200.75,High,2025-03-30
+299,29,Male,Beauty,40.25,Low,2025-01-31
+300,36,Female,Home & Kitchen,215.25,Medium,2025-04-19
+301,25,Male,Electronics,600.25,High,2025-02-17
+302,42,Female,Clothing,95.50,Medium,2025-03-25
+303,30,Male,Sports,130.75,Low,2025-01-31
+304,48,Female,Beauty,60.50,High,2025-04-22
+305,35,Male,Home & Kitchen,190.75,Medium,2025-02-28
+306,28,Female,Electronics,650.75,High,2025-03-31
+307,23,Male,Clothing,85.25,Low,2025-01-26
+308,46,Female,Sports,210.50,Medium,2025-04-15
+309,38,Male,Beauty,45.75,Low,2025-02-28
+310,31,Female,Home & Kitchen,200.50,High,2025-03-20
+311,36,Male,Electronics,500.50,Medium,2025-01-31
+312,27,Female,Clothing,115.25,High,2025-04-24
+313,44,Male,Sports,105.50,Low,2025-02-21
+314,33,Female,Beauty,70.75,Medium,2025-03-31
+315,28,Male,Home & Kitchen,155.75,Low,2025-01-31
+316,49,Female,Electronics,750.50,High,2025-04-17
+317,32,Male,Clothing,95.75,Medium,2025-02-28
+318,40,Female,Sports,195.25,High,2025-03-30
+319,26,Male,Beauty,50.25,Low,2025-01-31
+320,35,Female,Home & Kitchen,210.75,Medium,2025-04-20
+321,29,Male,Electronics,400.50,High,2025-02-18
+322,43,Female,Clothing,100.50,Medium,2025-03-26
+323,31,Male,Sports,135.50,Low,2025-01-31
+324,50,Female,Beauty,55.50,High,2025-04-23
+325,37,Male,Home & Kitchen,180.50,Medium,2025-02-28
+326,28,Female,Electronics,550.50,High,2025-03-31
+327,24,Male,Clothing,80.75,Low,2025-01-27
+328,47,Female,Sports,205.50,Medium,2025-04-16
+329,39,Male,Beauty,50.50,Low,2025-02-28
+330,30,Female,Home & Kitchen,195.25,High,2025-03-21
+331,34,Male,Electronics,450.75,Medium,2025-01-31
+332,26,Female,Clothing,120.50,High,2025-04-25
+333,41,Male,Sports,110.25,Low,2025-02-22
+334,32,Female,Beauty,65.25,Medium,2025-03-31
+335,27,Male,Home & Kitchen,145.50,Low,2025-01-31
+336,50,Female,Electronics,800.25,High,2025-04-18
+337,33,Male,Clothing,90.50,Medium,2025-02-28
+338,45,Female,Sports,200.50,High,2025-03-30
+339,29,Male,Beauty,40.50,Low,2025-01-31
+340,36,Female,Home & Kitchen,215.50,Medium,2025-04-21
+341,25,Male,Electronics,600.50,High,2025-02-19
+342,42,Female,Clothing,95.25,Medium,2025-03-27
+343,30,Male,Sports,130.50,Low,2025-01-31
+344,48,Female,Beauty,60.25,High,2025-04-24
+345,35,Male,Home & Kitchen,190.50,Medium,2025-02-28
+346,28,Female,Electronics,650.50,High,2025-03-31
+347,23,Male,Clothing,85.50,Low,2025-01-28
+348,46,Female,Sports,210.25,Medium,2025-04-17
+349,38,Male,Beauty,45.25,Low,2025-02-28
+350,31,Female,Home & Kitchen,200.25,High,2025-03-22
+351,36,Male,Electronics,500.25,Medium,2025-01-31
+352,27,Female,Clothing,115.50,High,2025-04-26
+353,44,Male,Sports,105.75,Low,2025-02-23
+354,33,Female,Beauty,70.50,Medium,2025-03-31
+355,28,Male,Home & Kitchen,155.50,Low,2025-01-31
+356,49,Female,Electronics,750.75,High,2025-04-19
+357,32,Male,Clothing,95.50,Medium,2025-02-28
+358,40,Female,Sports,195.50,High,2025-03-30
+359,26,Male,Beauty,50.50,Low,2025-01-31
+360,35,Female,Home & Kitchen,210.50,Medium,2025-04-22
+361,29,Male,Electronics,400.25,High,2025-02-20
+362,43,Female,Clothing,100.75,Medium,2025-03-28
+363,31,Male,Sports,135.25,Low,2025-01-31
+364,50,Female,Beauty,55.25,High,2025-04-25
+365,37,Male,Home & Kitchen,180.75,Medium,2025-02-28
+366,28,Female,Electronics,550.25,High,2025-03-31
+367,24,Male,Clothing,80.50,Low,2025-01-29
+368,47,Female,Sports,205.75,Medium,2025-04-18
+369,39,Male,Beauty,50.25,Low,2025-02-28
+370,30,Female,Home & Kitchen,195.50,High,2025-03-23
+371,34,Male,Electronics,450.50,Medium,2025-01-31
+372,26,Female,Clothing,120.25,High,2025-04-27
+373,41,Male,Sports,110.50,Low,2025-02-24
+374,32,Female,Beauty,65.75,Medium,2025-03-31
+375,27,Male,Home & Kitchen,145.25,Low,2025-01-31
+376,50,Female,Electronics,800.50,High,2025-04-20
+377,33,Male,Clothing,90.75,Medium,2025-02-28
+378,45,Female,Sports,200.25,High,2025-03-30
+379,29,Male,Beauty,40.75,Low,2025-01-31
+380,36,Female,Home & Kitchen,215.75,Medium,2025-04-23
+381,25,Male,Electronics,600.75,High,2025-02-21
+382,42,Female,Clothing,95.50,Medium,2025-03-29
+383,30,Male,Sports,130.25,Low,2025-01-31
+384,48,Female,Beauty,60.50,High,2025-04-26
+385,35,Male,Home & Kitchen,190.25,Medium,2025-02-28
+386,28,Female,Electronics,650.25,High,2025-03-31
+387,23,Male,Clothing,85.75,Low,2025-01-30
+388,46,Female,Sports,210.50,Medium,2025-04-19
+389,38,Male,Beauty,45.50,Low,2025-02-28
+390,31,Female,Home & Kitchen,200.50,High,2025-03-24
+391,36,Male,Electronics,500.50,Medium,2025-01-31
+392,27,Female,Clothing,115.25,High,2025-04-28
+393,44,Male,Sports,105.50,Low,2025-02-25
+394,33,Female,Beauty,70.25,Medium,2025-03-31
+395,28,Male,Home & Kitchen,155.75,Low,2025-01-31
+396,49,Female,Electronics,750.50,High,2025-04-21
+397,32,Male,Clothing,95.25,Medium,2025-02-28
+398,40,Female,Sports,195.75,High,2025-03-30
+399,26,Male,Beauty,50.25,Low,2025-01-31
+400,35,Female,Home & Kitchen,210.75,Medium,2025-04-24
